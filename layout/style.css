@@ -1,0 +1,195 @@
+@charset "UTF-8";
+
+body{
+    padding:0;
+    margin: 0;
+}
+
+#container{
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#header{
+    height :58px;
+    margin-top: 20px;
+}
+#main-heading-body{
+    height :37px;
+    margin-top: 20px;
+
+}
+
+#image-body{
+    height :395px;
+    margin-top: 20px;
+}
+
+#main{
+    height :526px;
+    margin-top: 20px;
+}
+
+#navi{
+    list-style:none ;
+    text-align: center;
+}
+
+#navi li{
+    display: inline-block;
+    padding: 20px;
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 100%;
+}
+
+#heading{
+color: #000000;
+
+}
+
+#body-text{
+    height :54px;
+    margin-top: 20px;
+    
+}
+
+#highlight{
+    color: rgb(164, 45, 108);
+}
+
+#heading-body{
+    height :28px;
+    margin-top: 20px;
+}
+
+#section1{
+    height :355px;
+    margin-top: 20px;
+}
+
+#hstyle{
+    display: block;
+    text-align: left;
+    padding-left: auto;
+}
+
+#text{
+    display: block;
+    text-align: left;
+    padding-left: auto;
+}
+
+#subimage1{
+    display: block;
+    float: left;
+    margin-left: auto;
+     margin-right: auto;
+    width:100%;
+}
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+}
+
+#imagebox{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+}
+#textbox{
+    margin-top: auto;
+    width: 580px;
+    height: 215px;
+}
+
+#subtext1{
+    padding: 26px 0;
+    font-size: 20px;
+  text-align: left;
+}
+
+#section2{
+    height :159px;
+    margin-top: 20px;
+}
+
+#subheading-body{
+    height :22px;
+    margin-top: 235px;
+}
+
+#download-body{
+    height :54px;
+    margin-top: 0px;
+}
+
+#subimage2{
+    display: block;
+    float: left;
+    margin-left: auto;
+     margin-right: auto;
+    width:100%;
+}
+
+#imagebox2{
+    margin-top: 15px;
+    width: 200px;
+    height: 112.5px;
+}
+#textbox2{
+    margin-top: 0px;
+    width: 580px;
+    height: 131px;
+}
+
+#subtext2{
+   
+    font-size: 20px;
+  text-align: left;
+}
+
+#section3{
+    height :183px;
+    margin-top: 20px;
+}
+
+#textbox3{
+    margin-top: 0px;
+    width: 580px;
+    height: 155px;
+}
+
+#section4{
+    height :158px;
+    margin-top: 20px;
+}
+
+#more{
+    font-size: 20px;
+}
+
+#more-in{
+    padding-top: 0px;
+    height :110px;
+    margin-top: 20px;
+}
+
+#footer-box{
+    height :158px;
+    margin-top: 20px;
+}
+
+#footer-style{
+    color: #595959;
+}
+
